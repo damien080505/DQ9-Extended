@@ -1,0 +1,136 @@
+{
+ "include": [
+  "lot5.json"
+ ],
+ "items": [
+  {
+   "id": 15504,
+   "base": 15285,
+   "name": "gants magistraux",
+   "plural": "paires de gants magistraux",
+   "desc": "Gants solaires d'un noir profond, à l'adresse incroyable.",
+   "rarity": 6,
+   "stats_exact": true,
+   "stats": {
+    "defense": 35,
+    "dexterity": 75
+   },
+   "vocations": "toutes",
+   "model": {
+    "number": 902,
+    "regles": [
+     "h:250-300",
+     "noir_brillant",
+     "h:0-25:0.56-1",
+     "noir_brillant",
+     "h:25-65:0.6-1",
+     "blanc_relief",
+     "h:0-65:0-0.6",
+     "noir"
+    ]
+   }
+  },
+  {
+   "id": 16500,
+   "base": 16234,
+   "name": "pantalon exponentiel",
+   "plural": "pantalons exponentiels",
+   "desc": "Pantalon noir résistant à de nombreux phénomènes étranges.",
+   "rarity": 6,
+   "stats_exact": true,
+   "stats": {
+    "defense": 35,
+    "magic_power": 22,
+    "magic_heal": 22
+   },
+   "vocations": "toutes",
+   "model": {
+    "number": 900,
+    "regles": [
+     "bleu",
+     "noir",
+     "or",
+     "blanc"
+    ]
+   }
+  }
+ ],
+ "recipes": [
+  {
+   "id": 515,
+   "product": 15285,
+   "ingredients": [
+    [
+     15285,
+     1
+    ],
+    [
+     22264,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 543,
+   "product": 15504,
+   "ingredients": [
+    [
+     15285,
+     1
+    ],
+    [
+     22264,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 515,
+   "rate": 50
+  },
+  {
+   "id": 516,
+   "product": 16234,
+   "ingredients": [
+    [
+     16234,
+     1
+    ],
+    [
+     22300,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 544,
+   "product": 16500,
+   "ingredients": [
+    [
+     16234,
+     1
+    ],
+    [
+     22300,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 516,
+   "rate": 50
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "include": [
+  "lot7.json"
+ ],
+ "langues": [
+  "fr",
+  "en",
+  "es",
+  "de",
+  "it"
+ ],
+ "items": [],
+ "recipes": []
+}

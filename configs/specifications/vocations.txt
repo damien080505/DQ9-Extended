@@ -1,0 +1,63 @@
+changer les voc :
+
+
+
+
+ensuite comme fusionné troubadour et sommité, je vais garder que le nom de troubadour partout a la place de sommité.
+
+pour le livre a voir c'est toujour la quete pour le troubadour mais ont donne le livre de sommité et ont enleve les quetes pour sommité ont mettra les quetes pour le hero a la place. je ne sais pas encore comment je vais proceder, tout depend de la complexité, déjà que pour modifier les quetes il me faudra probablement les fichier stb. a faire plus tard si j'arrive a faire le streaming
+
+pour finir les arbres de compétences de troubadour sera : 
+
+troubadour :
+
+4 solo d’enfer
+10 charme +20
+16 relooking
+22 adresse + 20
+32 coup de fouet
+42 soins magiques +30
+55 roi de la jongle
+68 puissance magique +40
+82 soirée disco
+100 charme + 80
+
+hero : 
+
+sorts : 
+
+Lvl 1 Premiers secours (il la déjà)
+Lvl 1 flammes (il la déjà)
+Lvl 4 evac'
+Lvl 13 soin partiel
+Lvl 17 rappel
+Lvl 21 torpeur
+Lvl 24 superbang
+Lvl 40 multisoin
+Lvl 45 megaflammes
+Lvl 50 soin complet
+Lvl 58 gigabang
+
+
+competence : 
+
+4 PV naturels +10
+10 Éclair Crépitant 
+16 Force +10
+22 Coup de Foudre 
+32 Puissance magique +30
+42 Chant du combattant 
+55 Vitalité +30
+68 Terrible Éclair 
+82 PM +50
+100 Désastre? (attaque de rhapthorne)
+
+stats (a modifier, le rend trop fort) :
+
+PV comme gladia
+PM comme arma
+Attaque comme arma
+Defense comme gladia
+Agilité entre voleur et trouba
+Adresse d’une classe average genre mage?
+Charme 2e ou 3e meilleur

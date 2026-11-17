@@ -1,0 +1,274 @@
+{
+ "include": [
+  "lot4.json"
+ ],
+ "items": [
+  {
+   "id": 12950,
+   "base": 12423,
+   "name": "coiffe saisonnière",
+   "plural": "coiffes saisonnières",
+   "desc": "Coiffe des quatre saisons, qui pare l'illusion, la mort, la confusion et le sommeil.",
+   "rarity": 5,
+   "stats_exact": true,
+   "stats": {
+    "defense": 27,
+    "magic_power": 32,
+    "magic_heal": 32
+   },
+   "vocations": {
+    "sauf": [
+     "guerrier",
+     "gladiateur",
+     "paladin"
+    ]
+   },
+   "model": {
+    "number": 950,
+    "regles": [
+     "h:170-200",
+     "or_relief:45:1.3:1.6",
+     "h:200-235",
+     "blanc_v:0.80:1.0",
+     "h:235-250",
+     "split|garder|blanc_v:0.68:0.90|0.2",
+     "gris",
+     "split|garder|blanc_v:0.68:0.90|0.2"
+    ]
+   },
+   "btlprm_ou": [
+    [
+     24,
+     "0xd8000000"
+    ],
+    [
+     28,
+     "0xd800d8d8"
+    ]
+   ]
+  },
+  {
+   "id": 12954,
+   "base": 12171,
+   "name": "démheaumniaque",
+   "plural": "démheaumniaques",
+   "desc": "Heaume démoniaque protégeant de la confusion, de l'illusion, du poison et de la mort.",
+   "rarity": 6,
+   "stats_exact": true,
+   "stats": {
+    "defense": 56
+   },
+   "vocations": [
+    "guerrier",
+    "prêtre",
+    "troubadour",
+    "gladiateur",
+    "paladin",
+    "armagicien",
+    "sommité"
+   ],
+   "model": {
+    "number": 952,
+    "regles": [
+     "or",
+     "noir",
+     "orange",
+     "noir"
+    ]
+   }
+  },
+  {
+   "id": 13801,
+   "base": 13314,
+   "name": "manteau omniscient",
+   "plural": "manteaux omniscients",
+   "desc": "Habit immaculé de celui qui sait tout, parant les sorts fatals.",
+   "rarity": 6,
+   "stats_exact": true,
+   "stats": {
+    "defense": 55,
+    "magic_heal": 47,
+    "magic_power": 47
+   },
+   "vocations": [
+    "prêtre",
+    "mage",
+    "troubadour",
+    "sage",
+    "sommité"
+   ],
+   "model": {
+    "number": 901,
+    "regles": [
+     "rouge",
+     "blanc",
+     "rose",
+     "blanc"
+    ]
+   }
+  },
+  {
+   "id": 13802,
+   "base": 13161,
+   "name": "armystique",
+   "plural": "armystiques",
+   "desc": "Armure mystique d'un noir profond, qui augmente PV et PM par le simple déplacement.",
+   "rarity": 6,
+   "stats_exact": true,
+   "stats": {
+    "defense": 115
+   },
+   "vocations": [
+    "guerrier",
+    "troubadour",
+    "gladiateur",
+    "paladin",
+    "armagicien",
+    "sommité"
+   ],
+   "model": {
+    "number": 902,
+    "regles": [
+     "or",
+     "noir",
+     "orange",
+     "noir"
+    ]
+   }
+  }
+ ],
+ "recipes": [
+  {
+   "id": 502,
+   "product": 12171,
+   "ingredients": [
+    [
+     12171,
+     1
+    ],
+    [
+     22263,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 540,
+   "product": 12954,
+   "ingredients": [
+    [
+     12171,
+     1
+    ],
+    [
+     22263,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 502,
+   "rate": 50
+  },
+  {
+   "id": 504,
+   "product": 12950,
+   "ingredients": [
+    [
+     12425,
+     1
+    ],
+    [
+     22302,
+     3
+    ],
+    [
+     22262,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 508,
+   "product": 13315,
+   "ingredients": [
+    [
+     13315,
+     1
+    ],
+    [
+     22261,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 541,
+   "product": 13801,
+   "ingredients": [
+    [
+     13315,
+     1
+    ],
+    [
+     22261,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 508,
+   "rate": 50
+  },
+  {
+   "id": 510,
+   "product": 13161,
+   "ingredients": [
+    [
+     13161,
+     1
+    ],
+    [
+     22259,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 542,
+   "product": 13802,
+   "ingredients": [
+    [
+     13161,
+     1
+    ],
+    [
+     22259,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 510,
+   "rate": 50
+  }
+ ]
+}

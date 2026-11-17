@@ -1,0 +1,63 @@
+numero/equipement/nom/rareté/supplement/a qui/alachimie/description
+
+numero de l'equipement (pour pas tout melanger)/quelle equipement/nom de l'equipement/ce que sa ajoute/quelle vocation ou auto (soit je choisi soit celle de base donc qu'on retrouve tout le temps)/recette pour fabriquer (sinon aucune recette)/description soit manuelle soit auto (a rediger avec une ia si besoin pour eviter les fautes).
+
+taux de reussite de 50% sur les equipement a 5 etoiles rouge
+
+------
+
+1/bouclier/enfer/5 rouge/+38 defense, +17.5 parade/auto/Désâmenteur x1+orbe noir x3+agate d'evolution pure x3/auto
+
+1/bouclier/paradis/5 rouge/+48 defense, +6.5 parade/auto/Désâmenteur x1+orbe blanche x3+agate d'evolution pure x3/auto
+
+------
+
+1/tete/coiffe saisonniere/5/+27 defense, puiss.magique +32, soins magique +32/tout sauf guerrier, gladiateur et paladin/Coiffe hivernale x1+Agate d'évolution pure x1+Orbe verte x3/je doit créer une descrption qui melange coiffe hivernal, automnal, estival et printaniere, elle a donc globalement les memes effets que le heaume divin
+
+2/tete/démheaumniaque/5 rouge/+56 defense/guerrier, prêtre, troubadour, gladiateur, paladin, armagicien, heros(anciennement sommité)/heaume divin x1+orbe violet x3+agate d'evolution pure x3/similaire au heaume divin
+
+------
+
+1/buste/manteau omniscient/5 rouge/+55 defense, +47 soins magique, +47 puiss. magique/pretre, mage, troubadour, sage, heros(anciennement sommité)/Manteau de Séraphin x1+orbe jaune x3+agate d'evolution pure x3/similaire au manteau de seraphin
+
+2/buste/armystique/5 rouge/+115 defense/guerrier, troubadour, gladiateur, paladin, armagicien, heros(anciennement sommité)/Armure légendaire x1+orbe rouge x3+agate d'evolution pure x3/description similaire a larmures legendaire
+
+------
+
+1/gants/gants magistraux/5 rouge/+35 defense, +75 adresse/toutes les vocations/Gants de Sol Invictus x1+ orbe argent x3+ agate d'evolution pure x3/auto
+
+------
+
+1/pantalon/pantalon exponentielle/5 rouge/+35 defense, +22 puiss. magique, +22 soin magique/toutes les vocations/Pantalon de l'infini x1+orbe noire x3+agate d'evolution pure x3/description similaire au Pantalon d'éternité et faisant pareil que le pantalon de l'infini
+
+------
+
+1/botte/Spartiates éthérées/5 rouge/+9 defense, +7% d'esquive, PM max +30/pretre, mage, artiste martial, voleur, troubadour, armagicien, ranger, sage et heros (anciennement sommité)/Spartiates subtiles x1+orbe bleu x3+agate d'evolution pure x3/description similaire au Spartiates subtiles
+
+2/botte/Bottes de légende/5 rouge/+34 defense/guerrier, gladiateur, troubadour, paladin, armagicien, heros (anciennement sommité)/Bottes de béatitude x1+orbe jaune x3+ agate d'evolution pure x3/effet comme l'armure legendaire (description au choix)
+
+
+------
+
+
+recap :
+
+enfer (Désâmenteur en couleur gris tres foncé a la place de l'or)
+
+paradis (Désâmenteur en couleur gris tres clair a la place de l'or)
+
+coiffe saisonniere (a laisser comme tu a déjà mis)
+
+démheaumniaque (Heaume divin en couleur noire a la place du l'or)
+
+manteau omniscient (Manteau de Chérubin en couleur blanc a la place du rouge rosé)
+
+armystique (Armure légendaire en couleur noir a la place du jaune doré)
+
+gants magistraux (Gants de Sol Invictus en couleur noire a la place de l'or et en blanc a la place du rose)
+
+pantalon exponentielle (Pantalon de l'infini en couleur noire a la place du bleu et blanc a la place du jaune)
+
+Spartiates éthérées (Spartiates adéquates en blanc a la place du beige)
+
+Bottes de légende (Bottes de béatitude en noire a la place de l'or)

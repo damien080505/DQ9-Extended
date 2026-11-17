@@ -1,0 +1,79 @@
+numero/equipement/nom/rareté/supplement/a qui/alachimie/description
+
+numero de l'equipement (pour moi pour pas tout melanger)/quelle equipement/nom de l'equipement/ce que sa ajoute/quelle vocation ou auto (soit je choisi soit celle de base donc qu'on retrouve tout le temps)/recette pour fabriquer (sinon aucune recette)/description soit manuelle soit auto (que je demande a une ia de faire une descritpion ou corriger la mienne pour eviter les fautes)
+
+taux de reussite de 50% sur les equipement a 5 etoiles rouge
+
+------
+
+épée/Épée Astrale/5 rouge/+195 attaque/pareil que toutes les épées/épée cosmique x1+agate d'évolution pure x3+orbe argent x3/épée extraordinaire affaiblissant les défenses et attaques de l'adversaire. (en gros baisse la defense et en plus de l'épée cosmique peut baisser l'attaque, donc pendant une attaque soit sa baisse l'attaque, soit la defense, soit les 2)
+
+------
+
+1/lance/Fantastuisane/5 rouge/+188 d'attaque/pareil que pour toutes les autres lance/Étripertuisane x1+agate d'evolution pure x3+orbe rouge x3/peut baisser la tension de l'ennemi (sa existe déjà donc sa devrais le faire)
+
+------
+
+1/poignard/Dague extraordinaire/5 rouge/+172 d'attaque/pareil que pour tout les autres poignards/Dague fulgurante x1+orbe violet x3+agate d'evolution pure x3/peut paralysé l'ennemi (comme le Poignard de peurpillon meme proba de paralysé vu que soit j'utilise les meme proba soit je change celle de toute)
+
+------
+
+1/baguette/Bâton de sagesse/5 rouge/+109 d'attaque,+15% taux d'absorption PM,+30 soin magique/pareil que pour toutes les autres baguette/baton de l'aurore x1+orbe bleu x3+agate d'evolution pure x3/meme description que baton de l'aurore et meme utilisation
+
+------
+
+1/fouet/gringhamiste/5 rouge/+158 d'attaque/pareil que pour tout les autres fouets/Topfouet de gringham x1+orbe vert x3+agate d'evolution pure x3/auto
+
+------
+
+1/Baton/Matraclysme/5 rouge/+188 d'attaque/pareil que tout les autres batons/Matracoma x1+orbe bleu x3+agate d'evolution pure x3/auto.
+
+------
+
+1/griffe/Griffes drago-imperial/5 rouge/+187 d'attaque/pareil que pour toutes les autres griffes/Griffes de Xenlon x1+orbe rouge x3+agate d'evolution pure x3/description similaire au Griffes de Xenlon
+
+------
+
+1/eventail/Éventail divin/5 rouge/+173 d'attaque/pareil que pour tout les autres eventails/Éventail ultracritique x1+orbe verte x3+agate d'evolution pure x3/description similaire a l'Éventail ultracritique (augmente de 12% a la place de 10 si c'est correcte, a oublier puisque j'avais pas compris que cetait un pourcentage commun a tous)
+
+------
+
+1/hache/Hachéclipse/5 rouge/+189 d'attaque/pareil que pour toutes les autres haches/Hache galactique x1+orbe violet x3+agate d'evolution pure x3/description et utilisation similaire de la Hache galactique
+
+------
+
+1/masse/Pilon galactique/5 rouge/+186 d'attaque/pareil que pour toutes les autres masses/Pilon stellaire x1+orbe jaune x3+agate d'evolution pure x3/description similaire au Pilon stellaire
+
+------
+
+1/boomerang/Nébulirang/5 rouge/+146 d'attaque/pareil que pour tout les autres boomerangs/Galaxirang x1+orbe argent x3+agate d'evolution pure x3/description similaire mais peut aussi reduire la defense de chacun des enemie qu'il touche
+
+------
+
+1/Arc/Arc du Firmament/5 rouge/+189 d'attaque/pareil que pour tout les autres arc/Arc de Séraphin x1+orbe jaune x3+agate d'evolution pure x3/peut parfois empoisonné et garder aussi une description similaire a l'Arc de Séraphin
+
+------
+
+Arc du Firmament (rouge pourpre claire a la place du violet)
+
+Nébulirang (rouge pourpre au milieu et degradé au violet sur les bord en gardant la meme logique de couleurs et degradé)
+
+hachéclipse (rouge pourpre a la pace du rose et rosé a la place de la couleur or)
+
+Pilon galactique (Pilon stellaire rouge a la place du bleu et or a la place du jaune orangé)
+
+Éventail divin (Éventail ultracritique en noire et or a la place des couleurs actuelle)
+
+Griffes drago-imperial (couleur violette a la place du bleu des Griffes de Xenlon)
+
+Matraclysme (matracoma en rouge pourpre a la place du rouge claire, et encore plus doré que ce qu'il est déjà)
+
+gringhamiste (Topfouet de gringham en rouge pourpre a la place du rouge)
+
+Bâton de sagesse (baton de l'aurore en rouge pourpre a la place du rose et violet)
+
+Dague extraordinaire (dague fulgurante en blanc a la place du rouge)
+
+sacrilance (Étripertuisane en rouge a la place du violet)
+
+Épée Astrale (épée comsique en rouge pourpre a la place du bleu)

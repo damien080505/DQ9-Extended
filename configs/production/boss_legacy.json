@@ -1,0 +1,716 @@
+{
+ "bosses": [
+  {
+   "id": 14,
+   "species": 780,
+   "copy_of": 319,
+   "model_from": "b022a",
+   "model": "b022b",
+   "colours": null,
+   "music": 24,
+   "name": "Corvus",
+   "plural": "Corvus",
+   "map": "Carte de Corvus",
+   "courbe": 503,
+   "stats": {
+    "1": [
+     11250,
+     890,
+     870,
+     450
+    ],
+    "99": [
+     21450,
+     1630,
+     1010,
+     690
+    ]
+   },
+   "paliers": [
+    [
+     1,
+     2
+    ],
+    [
+     22,
+     3
+    ],
+    [
+     57,
+     4
+    ]
+   ],
+   "kit": [
+    [
+     1,
+     1,
+     "Attaque"
+    ],
+    [
+     1,
+     543,
+     "Éclair apocalyptique (celui de Grizius)"
+    ],
+    [
+     1,
+     20,
+     "Mégatornade"
+    ],
+    [
+     1,
+     189,
+     "Perturbonde"
+    ],
+    [
+     1,
+     540,
+     "Sky Drop"
+    ],
+    [
+     1,
+     161,
+     "Tension"
+    ],
+    [
+     1,
+     558,
+     "Régénération des PM"
+    ],
+    [
+     10,
+     49,
+     "Décuplo"
+    ],
+    [
+     10,
+     50,
+     "Ramollo"
+    ],
+    [
+     27,
+     581,
+     "Gigatornade"
+    ],
+    [
+     36,
+     578,
+     "Gigaflamme"
+    ],
+    [
+     36,
+     580,
+     "Gigaglace"
+    ],
+    [
+     44,
+     583,
+     "Explosion magique"
+    ],
+    [
+     72,
+     45,
+     "Accéléro"
+    ],
+    [
+     72,
+     52,
+     "Superconfusion"
+    ]
+   ],
+   "souffle": [
+    286,
+    [
+     543
+    ]
+   ],
+   "dialogue": [
+    "Tiens... Cette lueur au fond de ton regard.",
+    "Je jurerais l'avoir déjà vue briller, au-dessus des nuages, il y a bien longtemps.",
+    "Mais les souvenirs d'un être déchu ne valent rien.",
+    "Approche, et montre-moi ce que vaut ta lumière."
+   ],
+   "texture_16col": "b022a_06",
+   "oublis": [
+    [
+     20,
+     27
+    ]
+   ],
+   "cas_importes": {
+    "558": [
+     "b021b",
+     558,
+     161,
+     true
+    ],
+    "583": [
+     "b023a",
+     583,
+     286
+    ]
+   },
+   "pm": {
+    "1": 40,
+    "99": 80
+   },
+   "kit_paliers": [
+    [
+     543,
+     20,
+     189,
+     540,
+     161
+    ],
+    [
+     581,
+     543,
+     578,
+     540,
+     558
+    ],
+    [
+     581,
+     580,
+     583,
+     52,
+     558
+    ]
+   ]
+  },
+  {
+   "id": 15,
+   "species": 781,
+   "copy_of": 320,
+   "model_from": "b023a",
+   "model": "b023b",
+   "colours": "b023a",
+   "music": 26,
+   "name": "Corvus final",
+   "plural": "Corvus final",
+   "map": "Carte de Corvus final",
+   "courbe": 505,
+   "stats": {
+    "1": [
+     13250,
+     760,
+     700,
+     340
+    ],
+    "99": [
+     25450,
+     1830,
+     1020,
+     750
+    ]
+   },
+   "paliers": [
+    [
+     1,
+     2
+    ],
+    [
+     13,
+     3
+    ],
+    [
+     44,
+     4
+    ],
+    [
+     85,
+     5
+    ]
+   ],
+   "kit": [
+    [
+     1,
+     1,
+     "Attaque"
+    ],
+    [
+     1,
+     542,
+     "Breakneck Blitz"
+    ],
+    [
+     1,
+     540,
+     "Nosedive / Sky Attack"
+    ],
+    [
+     1,
+     11,
+     "Mégaflamme"
+    ],
+    [
+     1,
+     583,
+     "Explosion magique"
+    ],
+    [
+     1,
+     161,
+     "Tension"
+    ],
+    [
+     1,
+     563,
+     "Hypnœil (Lullab-Eye)"
+    ],
+    [
+     1,
+     189,
+     "Perturbonde"
+    ],
+    [
+     1,
+     587,
+     "Méditation"
+    ],
+    [
+     1,
+     558,
+     "Prière (Pray)"
+    ],
+    [
+     1,
+     272,
+     "Souffle brûlant"
+    ],
+    [
+     9,
+     578,
+     "Gigaflamme"
+    ],
+    [
+     9,
+     580,
+     "Gigaglace"
+    ],
+    [
+     9,
+     582,
+     "Gigaélec"
+    ],
+    [
+     27,
+     270,
+     "Souffle gla-glacial"
+    ],
+    [
+     27,
+     266,
+     "Tout feu tout flamme"
+    ],
+    [
+     36,
+     41,
+     "Protection"
+    ],
+    [
+     36,
+     49,
+     "Décuplo"
+    ],
+    [
+     36,
+     50,
+     "Ramollo"
+    ],
+    [
+     59,
+     55,
+     "Réflexion"
+    ],
+    [
+     59,
+     32,
+     "Soins avancés"
+    ],
+    [
+     59,
+     228,
+     "Haleine fraîche"
+    ],
+    [
+     68,
+     579,
+     "Gigabang"
+    ],
+    [
+     68,
+     26,
+     "Mégakill"
+    ],
+    [
+     68,
+     52,
+     "Superconfusion"
+    ]
+   ],
+   "souffle": null,
+   "dialogue": [
+    "Encore toi ? Non... Pas encore.",
+    "Pourtant, mes ailes se souviennent d'un combat que mon esprit a oublié.",
+    "Peu importe d'où tu viens : cette fois, le ciel ne te rendra rien."
+   ],
+   "kit_paliers": [
+    [
+     542,
+     540,
+     272,
+     563,
+     578
+    ],
+    [
+     542,
+     272,
+     270,
+     266,
+     49
+    ],
+    [
+     542,
+     583,
+     558,
+     55,
+     579
+    ],
+    [
+     542,
+     583,
+     558,
+     26,
+     52
+    ]
+   ],
+   "souffles_propres": {
+    "270": 269,
+    "228": [
+     272,
+     "b104a"
+    ],
+    "266": {
+     "modele": 269,
+     "donneur": "b104a"
+    }
+   }
+  },
+  {
+   "id": 16,
+   "species": 782,
+   "copy_of": 316,
+   "model_from": "b019a",
+   "model": "b019c",
+   "colours": "b019a",
+   "music": 24,
+   "name": "Roi Govin de Klenfer",
+   "plural": "Rois Govin de Klenfer",
+   "map": "Carte du Roi Govin de Klenfer",
+   "courbe": 512,
+   "stats": {
+    "1": [
+     9010,
+     740,
+     590,
+     310
+    ],
+    "99": [
+     20100,
+     1790,
+     980,
+     560
+    ]
+   },
+   "paliers": [
+    [
+     1,
+     2
+    ],
+    [
+     21,
+     3
+    ],
+    [
+     60,
+     4
+    ]
+   ],
+   "kit": [
+    [
+     1,
+     1,
+     "Attaque"
+    ],
+    [
+     1,
+     555,
+     "Boule du sceptre"
+    ],
+    [
+     1,
+     578,
+     "Gigaflamme"
+    ],
+    [
+     1,
+     189,
+     "Perturbonde"
+    ],
+    [
+     1,
+     300,
+     "Trou d'air"
+    ],
+    [
+     13,
+     580,
+     "Gigaglace"
+    ],
+    [
+     27,
+     32,
+     "Soins avancés"
+    ],
+    [
+     41,
+     41,
+     "Protection"
+    ],
+    [
+     41,
+     49,
+     "Décuplo"
+    ],
+    [
+     69,
+     55,
+     "Réflexion"
+    ],
+    [
+     75,
+     579,
+     "Gigabang"
+    ],
+    [
+     75,
+     581,
+     "Gigatornade"
+    ],
+    [
+     86,
+     54,
+     "Mégatorpeur"
+    ]
+   ],
+   "souffle": null,
+   "dialogue": [
+    "Un intrus dans mon royaume ! Aurais-tu été envoyé par le traître d'Aquila ?",
+    "Lui aussi avait juré fidélité à Klenfer, avant de se retourner contre son empereur.",
+    "Je ne pardonne jamais deux fois. À genoux devant le roi !"
+   ]
+  },
+  {
+   "id": 17,
+   "species": 783,
+   "copy_of": 317,
+   "model_from": "b020a",
+   "model": "b020b",
+   "colours": "b020a",
+   "music": 24,
+   "name": "Roi Govin de Klenfer final",
+   "plural": "Rois Govin de Klenfer final",
+   "map": "Carte du Roi Govin de Klenfer final",
+   "courbe": 505,
+   "stats": {
+    "1": [
+     14850,
+     820,
+     790,
+     200
+    ],
+    "99": [
+     27450,
+     1530,
+     1010,
+     540
+    ]
+   },
+   "paliers": [
+    [
+     1,
+     2
+    ],
+    [
+     20,
+     3
+    ],
+    [
+     40,
+     4
+    ],
+    [
+     85,
+     5
+    ]
+   ],
+   "kit": [
+    [
+     1,
+     1,
+     "Attaque"
+    ],
+    [
+     1,
+     578,
+     "Gigaflamme"
+    ],
+    [
+     1,
+     189,
+     "Perturbonde"
+    ],
+    [
+     1,
+     245,
+     "Attaque désespérée"
+    ],
+    [
+     1,
+     55,
+     "Réflexion"
+    ],
+    [
+     1,
+     42,
+     "Mégaprotection"
+    ],
+    [
+     1,
+     534,
+     "Souffle ténébreux (retiré au niv. 20)"
+    ],
+    [
+     12,
+     580,
+     "Gigaglace"
+    ],
+    [
+     12,
+     582,
+     "Gigaélec"
+    ],
+    [
+     18,
+     579,
+     "Gigabang"
+    ],
+    [
+     18,
+     581,
+     "Gigatornade"
+    ],
+    [
+     26,
+     44,
+     "Mégaltération"
+    ],
+    [
+     32,
+     270,
+     "Souffle gla-glacial"
+    ],
+    [
+     32,
+     266,
+     "Tout feu tout flamme"
+    ],
+    [
+     44,
+     41,
+     "Protection"
+    ],
+    [
+     44,
+     49,
+     "Décuplo"
+    ],
+    [
+     59,
+     32,
+     "Soins avancés"
+    ],
+    [
+     59,
+     54,
+     "Mégatorpeur"
+    ],
+    [
+     72,
+     24,
+     "Kill"
+    ],
+    [
+     92,
+     25,
+     "Superkill"
+    ],
+    [
+     98,
+     26,
+     "Mégakill"
+    ]
+   ],
+   "souffle": null,
+   "dialogue": [
+    "Aquila... Même par-delà la mort, ce traître continue de dresser des chiens contre moi !",
+    "Klenfer ne tombera pas, ni par sa main, ni par la tienne.",
+    "Contemple la vraie puissance de ton souverain !"
+   ],
+   "kit_paliers": [
+    [
+     578,
+     189,
+     245,
+     42,
+     534
+    ],
+    [
+     245,
+     579,
+     581,
+     270,
+     266
+    ],
+    [
+     245,
+     41,
+     55,
+     32,
+     24
+    ],
+    [
+     245,
+     266,
+     54,
+     25,
+     26
+    ]
+   ],
+   "texture_16col": "b020a_07",
+   "souffles_propres": {
+    "270": [
+     264,
+     "b104a"
+    ],
+    "266": 264,
+    "534": [
+     264,
+     "b021a"
+    ]
+   }
+  }
+ ],
+ "premiere_espece_forme": 802,
+ "premiere_action_metamorphose": 946
+}

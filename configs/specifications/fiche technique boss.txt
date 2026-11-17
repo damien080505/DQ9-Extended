@@ -1,0 +1,120 @@
+fiche technique boss
+
+Corvus :
+
+stats Lvl 1:
+
+PV: 11250, attaque: 890, Def: 870, Agilité: 450
+
+stats Lvl 99:
+
+PV: 21450, attaque: 1630, Def: 1010, Agilité: 690
+
+attaque 2 fois par tour.
+les attaques de bases rie avec assurance qui loupe un tour pour lui ne sont pas present.
+
+Magies/Compétences:
+
+Lvl 1: Attaque physique (coup normal et coup critique en gardant les probabilité de faire l'attaque critique moins souvent que l'attaque normal), Lightning (je doit l'appeler foudre ou un truc simililaire), mega tornade, perturbonde, Sky Drop (propre a cette forme de corvus), tension, regeneration des pm (je doit modifier pour rendre l'animation coherente quitte a en créer une. grizus des antres a cette attaque !!)
+Lvl 10: Décuplo, Ramollo
+Lvl 22: Passe à 3 attaques/tour
+Lvl 27: gigatornade (oublie megatornade a ce niveau)
+Lvl 36: Gigaflamme, Gigaglace
+Lvl 44: Explosion magique, Regénération magique
+Lvl 57: Passe à 4 attaques/tour
+Lvl 72: Accéléro, Superconfusion
+
+Corvus final :
+
+stats Lvl 1:
+
+PV: 13250, attaque: 760, Def: 700, Agilité: 340
+
+stats Lvl 99:
+
+PV: 25450, attaque: 1830, Def: 1020, Agilité: 750
+
+attaque 2 fois par tour.
+les attaques de bases rie avec assurance qui loupe un tour pour lui ne sont pas present.
+
+Lvl 1: Attaque physique (coup normal et coup critique en gardant les probabilité de faire l'attaque critique moins souvent que l'attaque normal si j'y arrive),
+Breakneck Blitz (Enchaînement de plusieurs coups sur des membres aléatoires du groupe.)
+Nosedive / Sky Attack (Corvus prend de la hauteur avant de plonger violemment sur un personnage.)
+megaflamme
+explosion magique
+tension
+Lullab-Eye (Attaque par le regard pouvant endormir un personnage.)
+perturbonde
+Meditation (je doit trouver un moyen de restaurer 1000 PV à Corvus a la place de 500 de base, si cest pas possible je laisserait a 500)
+Pray / (MP Restore Restaure ses PM. il l'utilise presque obligatoirement apres avoir utilisé explosion magique)
+souffle brulant (peut paralyser un groupe de personnage.)
+Lvl 9: Gigaflamme, Gigaglace, gigaelec (enleve megaflamme a ce niveau)
+Lvl 13: Passe à 3 attaques/tour
+Lvl 27: Souffle Gla-glacial, Tout feu Tout flamme
+Lvl 36: Protection, décuplo, Ramollo
+Lvl 44: passe a 4 attaques/tour
+Lvl 59: Réflexion, Soins avancés, Haleine fraiche
+Lvl 68: Gigabang, Kill, Superconfusion
+Lvl 85: Passe à 5 attaques/tour
+
+roi govin :
+
+stats Lvl 1:
+
+PV: 9010, attaque: 740, Def: 590, Agilité: 310
+
+stats Lvl 99:
+
+PV: 20100, attaque: 1790, Def: 980, Agilité: 560
+
+attaque 2 fois par tour.
+
+les attaques de bases comme rie avec assurance qui loupe un tour pour lui ne sont pas present.
+
+si c'est bien les vrai attaques, il faut que je garde ces attaques :
+
+Lvl 1: Attaque normale 33 % Frappe physique sur un personnage.
+Boule du sceptre (Scepter Ball)	23 % Lance la boule située au sommet de son sceptre sur le groupe.
+gigaflamme 19 %
+Perturbonde (Disruptive Wave) 15 %
+Trou d'air (Thin Air) 11 % Attaque de vent touchant le groupe. (a augmenter les degats)
+Lvl 13: Gigaglace
+Lvl 21: Passe à 3 attaques/tour
+Lvl 27: Soins avancés
+Lvl 41: Protection, décuplo
+Lvl 60: passe a 4 attaques/tour
+Lvl 69: Réflexion
+Lvl 75: Gigabang, Gigatornade
+Lvl 86: megatorpeur 
+
+
+roi govin final :
+
+stats Lvl 1:
+
+PV: 14850, attaque: 820, Def: 790, Agilité: 200
+
+stats Lvl 99:
+
+PV: 27450, attaque: 1530, Def: 1010, Agilité: 540
+
+Lvl 1: Attaque normale 27 % Frappe physique sur un personnage.
+Gigaflamme (Kafrizz) 23 %
+Perturbonde (Disruptive Wave) 11 %
+Attaque désespérée 6,6 % (coup critique)
+reflexion renvoie les sorts.
+Mégaprotection (Kabuff)
+souffle ténébreux ou Souffle de tenebre qui frappe tous les personnages.
+Lvl 12: Gigaglace, gigaelec
+Lvl 18: Gigabang, gigatornade
+Lvl 20: Passe à 3 attaques/tour (a voir si c'est notifier de base dans le jeu. lui enlever souffle ténébreux a ce niveau la)
+Lvl 26: Mégaltération
+Lvl 32: Souffle Gla-glacial, Tout feu Tout flamme (je doit mettre la bonne animation)
+Lvl 40: passe a 4 attaques/tour
+Lvl 44: Protection, décuplo, réflexion
+Lvl 59: Soins avancés, megatorpeur
+Lvl 72: Kill
+Lvl 85: Passe à 5 attaques/tour
+Lvl 92: superkill
+Lvl 98: megakill (enlever superkill a ce niveau)
+

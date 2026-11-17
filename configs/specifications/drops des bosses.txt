@@ -1,0 +1,81 @@
+toutes les cartes a drop doivent etre niv.1 et pas encore explorer !! je doit le faire avant de mettre une quete pour avoir les 2 premieres
+
+corvus : 
+ 	
+1-3: chronocristal (10%)
+4-8: chronocristal (13%)
+9-15: chronocristal (17%)
+16-25: corvus final (2%)
+26-40: corvus final (4%)
+41-56: corvus final (6%)
+57-68: corvus final (8%)
+69-80: corvus final (10%)
+81-90: corvus final (15%)
+91-99: corvus final (20%)
+
+1-8: orbe blanche (5%)
+9-25: orbe blanche (6%)
+26-56: orbe blanche (7%)
+57-80: orbe blanche (8%)
+81-90: orbe blanche (9%)
+91-99: orbe blanche (10%)
+
+corvus final :
+
+1-3: soluté sacré (1%)
+4-8: soluté sacré (5%)
+9-15: soluté sacré (10%)
+16-25: soluté sacré (15%)
+26-40: soluté sacré (20%)
+41-56: soluté sacré (25%)
+57-68: agate d'évolution (2%)
+69-80: agate d'évolution (3%)
+81-90: agate d'évolution (5%)
+91-99: agate d'évolution pure (1%)
+
+1-8: orbe noire (10%)
+9-25: orbe noire (11%)
+26-56: orbe noire (12%)
+57-80: orbe noire (13%)
+81-90: orbe noire (14%)
+91-99: orbe noire (15%)
+
+govin :
+
+1-3: chronocristal (7%)
+4-8: chronocristal (10%)
+9-15: chronocristal (15%)
+16-25: govin final (2%)
+26-40: govin final (4%)
+41-56: govin final (6%)
+57-68: govin final (8%)
+69-80: govin final (10%)
+81-90: govin final (15%)
+91-99: govin final (20%)
+
+1-8: orbe noire (5%)
+9-25: orbe noire (6%)
+26-56: orbe noire (7%)
+57-80: orbe noire (8%)
+81-90: orbe noire (9%)
+91-99: orbe noire (10%)
+
+govin final :
+
+1-3: soluté sacré (1%)
+4-8: soluté sacré (4%)
+9-15: soluté sacré (7%)
+16-25: soluté sacré (10%)
+26-40: soluté sacré (15%)
+41-56: soluté sacré (20%)
+57-68: agate d'évolution (1%)
+69-80: agate d'évolution (2%)
+81-90: agate d'évolution (3%)
+91-99: agate d'évolution (5%)
+
+1-8: orbe blanche (10%)
+9-25: orbe blanche (11%)
+26-56: orbe blanche (12%)
+57-80: orbe blanche (13%)
+81-90: orbe blanche (14%)
+91-99: orbe blanche (15%)

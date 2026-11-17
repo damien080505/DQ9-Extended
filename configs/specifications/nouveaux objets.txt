@@ -1,0 +1,9 @@
+nouveaux objets :
+
+nom/rareté/ou ca ?/par qui ?/prix d'achat/prix de vente/comment l'avoir/changement/description :
+
+orbe noire/4/trouvé dans : rien/abandonné par : (si dans les fichiers du jeu je trouve que c'est un bosse ont met corvus final et govin sinon rien)/achat : achat imposs./vente : 5000/drops sur un bosse legacy (corvus final et govin)/orbe existante en noire/Orbe incroyablement rare d'un noir abyssal. Un peu d'alchimie ?
+
+orbe blanche/4/trouvé dans : rien/abandonné par : (si dans les fichiers du jeu je trouve que c'est un bosse ont met corvus et govin final sinon rien)/achat : achat imposs./vente : 5000/drops sur un bosse legacy (corvus et govin final)/orbe existante en blanche/Orbe incroyablement rare d'un blanc immaculé. Un peu d'alchimie ?
+
+agate d'evolution pure/4/trouvé dans : alchimie/abandonné par : rien/achat imposs./vente : 50000/alchimie : 3 agates d'evolution, 3 orbes blanche, 3 orbes noire/agate d'evolution existante en rouge/Pierre très spéciale accélérant l'évolution. Un peu d'alchimie ?

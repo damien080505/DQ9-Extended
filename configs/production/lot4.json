@@ -1,0 +1,137 @@
+{
+ "include": [
+  "lot3.json"
+ ],
+ "items": [
+  {
+   "id": 21507,
+   "base": 21013,
+   "name": "enfer",
+   "plural": "enfers",
+   "desc": "Bouclier infernal d'un gris sombre, qui pare presque tous les coups.",
+   "rarity": 6,
+   "stats": {
+    "defense": 38,
+    "parade_tenths": 175
+   },
+   "model": {
+    "number": 503,
+    "regles": [
+     "or",
+     "gris:0.08:0.38",
+     "orange",
+     "gris:0.08:0.38",
+     "rouge",
+     "gris:0.03:0.25",
+     "rose",
+     "gris:0.03:0.25"
+    ]
+   },
+   "stats_exact": true
+  },
+  {
+   "id": 21508,
+   "base": 21013,
+   "name": "paradis",
+   "plural": "paradis",
+   "desc": "Bouclier céleste d'un gris argenté, à la défense inégalée.",
+   "rarity": 6,
+   "stats": {
+    "defense": 48,
+    "parade_tenths": 65
+   },
+   "model": {
+    "number": 504,
+    "regles": [
+     "or",
+     "gris:0.64:0.94",
+     "orange",
+     "gris:0.64:0.94",
+     "rouge",
+     "gris:0.55:0.85",
+     "rose",
+     "gris:0.55:0.85"
+    ]
+   },
+   "stats_exact": true
+  }
+ ],
+ "recipes": [
+  {
+   "id": 496,
+   "product": 21013,
+   "ingredients": [
+    [
+     21013,
+     1
+    ],
+    [
+     22300,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 538,
+   "product": 21507,
+   "ingredients": [
+    [
+     21013,
+     1
+    ],
+    [
+     22300,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 496,
+   "rate": 50
+  },
+  {
+   "id": 498,
+   "product": 21013,
+   "ingredients": [
+    [
+     21013,
+     1
+    ],
+    [
+     22301,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 539,
+   "product": 21508,
+   "ingredients": [
+    [
+     21013,
+     1
+    ],
+    [
+     22301,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 498,
+   "rate": 50
+  }
+ ]
+}

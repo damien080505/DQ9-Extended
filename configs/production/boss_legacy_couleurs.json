@@ -1,0 +1,40 @@
+{
+ "b023a": [
+  "vert",
+  "teinte:220",
+  "h:45-75:0-0.62",
+  "teinte:220"
+ ],
+ "b019a": [
+  "bleu",
+  "noir_clair",
+  "violet",
+  "teinte:8",
+  "rose",
+  "teinte:8",
+  "vert",
+  "dore",
+  "rouge",
+  "teinte:5"
+ ],
+ "b020a": [
+  "bleu",
+  "noir_clair",
+  "violet",
+  "noir",
+  "h:38-62:0.75-1",
+  "garder",
+  "or",
+  "teinte_sv:8:1.2:0.95",
+  "orange",
+  "teinte_sv:18:1.3:0.9",
+  "beige",
+  "teinte_sv:20:1.4:0.85",
+  "rouge",
+  "teinte_sv:2:1.2:1.0",
+  "vert",
+  "dore",
+  "gris",
+  "split|noir|gris_fonce|0.45"
+ ]
+}

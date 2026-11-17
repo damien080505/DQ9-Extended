@@ -1,0 +1,158 @@
+{
+ "items": [
+  {
+   "id": 22300,
+   "base": 22263,
+   "name": "orbe noir",
+   "plural": "orbes noirs",
+   "desc": "Orbe incroyablement rare d'un noir abyssal. Un peu d'alchimie ?",
+   "rarity": 4,
+   "sell": 5000,
+   "buy": 0,
+   "model": {
+    "number": 500,
+    "recolor": "noir"
+   },
+   "test_shop_buy": 5000
+  },
+  {
+   "id": 22301,
+   "base": 22264,
+   "name": "orbe blanc",
+   "plural": "orbes blancs",
+   "desc": "Orbe incroyablement rare d'un blanc immaculé. Un peu d'alchimie ?",
+   "rarity": 4,
+   "sell": 5000,
+   "buy": 0,
+   "model": {
+    "number": 501,
+    "regles": [
+     "gris",
+     "blanc_relief"
+    ]
+   },
+   "test_shop_buy": 5000
+  },
+  {
+   "id": 22302,
+   "base": 22111,
+   "name": "agate d'évolution pure",
+   "plural": "agates d'évolution pures",
+   "desc": "Pierre très spéciale accélérant l'évolution. Un peu d'alchimie ?",
+   "rarity": 4,
+   "sell": 50000,
+   "buy": 0,
+   "model": {
+    "number": 502,
+    "regles": [
+     "i:2",
+     "garder",
+     "i:5",
+     "garder",
+     "or",
+     "teinte:0",
+     "orange",
+     "teinte:5",
+     "beige",
+     "teinte:10"
+    ]
+   },
+   "test_shop_buy": 5000
+  },
+  {
+   "id": 20217,
+   "base": 20216,
+   "name": "hachéclipse",
+   "plural": "hachéclipses",
+   "desc": "@base",
+   "rarity": 6,
+   "stats": {
+    "attack": 189
+   },
+   "model": {
+    "number": 920,
+    "regles": [
+     "rose",
+     "teinte:335",
+     "or",
+     "teinte_sv:340:0.45:1.1"
+    ]
+   },
+   "test_shop_buy": 5000
+  },
+  {
+   "id": 22345,
+   "base": 22162,
+   "name": "relique oubliée",
+   "plural": "reliques oubliées",
+   "desc": "Une relique ancienne, sans usage connu. Elle pourrait probablement servir plus tard."
+  }
+ ],
+ "recipes": [
+  {
+   "id": 473,
+   "product": 22302,
+   "ingredients": [
+    [
+     22111,
+     3
+    ],
+    [
+     22301,
+     3
+    ],
+    [
+     22300,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 474,
+   "product": 20216,
+   "ingredients": [
+    [
+     20216,
+     1
+    ],
+    [
+     22263,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 526,
+   "product": 20217,
+   "ingredients": [
+    [
+     20216,
+     1
+    ],
+    [
+     22263,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 474,
+   "rate": 50
+  }
+ ],
+ "test_shop": {
+  "shop": 2,
+  "items": [
+   22300,
+   22301,
+   22302,
+   20217
+  ]
+ }
+}

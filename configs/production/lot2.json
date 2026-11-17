@@ -1,0 +1,71 @@
+{
+ "include": [
+  "lot1.json"
+ ],
+ "items": [
+  {
+   "id": 20030,
+   "base": 20029,
+   "name": "épée astrale",
+   "plural": "épées astrales",
+   "desc": "Épée extraordinaire affaiblissant les défenses et attaques de l'adversaire.",
+   "rarity": 6,
+   "stats": {
+    "attack": 195
+   },
+   "model": {
+    "number": 921,
+    "regles": [
+     "bleu",
+     "teinte:335"
+    ]
+   },
+   "btlprm_ou": [
+    [
+     4,
+     "0x04"
+    ]
+   ]
+  }
+ ],
+ "recipes": [
+  {
+   "id": 475,
+   "product": 20029,
+   "ingredients": [
+    [
+     20029,
+     1
+    ],
+    [
+     22302,
+     3
+    ],
+    [
+     22264,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 527,
+   "product": 20030,
+   "ingredients": [
+    [
+     20029,
+     1
+    ],
+    [
+     22302,
+     3
+    ],
+    [
+     22264,
+     3
+    ]
+   ],
+   "variant_of": 475,
+   "rate": 50
+  }
+ ]
+}

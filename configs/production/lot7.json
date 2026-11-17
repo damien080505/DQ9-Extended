@@ -1,0 +1,149 @@
+{
+ "include": [
+  "lot6.json"
+ ],
+ "items": [
+  {
+   "id": 17500,
+   "base": 17414,
+   "name": "spartiates éthérées",
+   "plural": "paires de spartiates éthérées",
+   "rarity": 6,
+   "stats": {
+    "defense": 9,
+    "evasion_tenths": 70,
+    "mp_max": 30
+   },
+   "stats_exact": true,
+   "vocations": [
+    "prêtre",
+    "mage",
+    "artiste martial",
+    "voleur",
+    "troubadour",
+    "armagicien",
+    "ranger",
+    "sage",
+    "sommité"
+   ],
+   "desc": "Sandales éthérées augmentant les PM max. et en redonnant aussi.",
+   "model": {
+    "number": 900,
+    "regles": [
+     "h:15-60",
+     "blanc_relief"
+    ]
+   }
+  },
+  {
+   "id": 17507,
+   "base": 17185,
+   "name": "bottes de légende",
+   "plural": "paires de bottes de légende",
+   "desc": "Bottes légendaires d'un noir profond, redonnant PV et PM par la marche.",
+   "rarity": 6,
+   "stats_exact": true,
+   "stats": {
+    "defense": 34
+   },
+   "vocations": [
+    "guerrier",
+    "gladiateur",
+    "troubadour",
+    "paladin",
+    "armagicien",
+    "sommité"
+   ],
+   "effets_de": [
+    12421
+   ],
+   "model": {
+    "number": 903,
+    "regles": [
+     "or",
+     "noir",
+     "orange",
+     "noir"
+    ]
+   }
+  }
+ ],
+ "recipes": [
+  {
+   "id": 519,
+   "product": 17417,
+   "ingredients": [
+    [
+     17417,
+     1
+    ],
+    [
+     22260,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 545,
+   "product": 17500,
+   "ingredients": [
+    [
+     17417,
+     1
+    ],
+    [
+     22260,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 519,
+   "rate": 50
+  },
+  {
+   "id": 525,
+   "product": 17185,
+   "ingredients": [
+    [
+     17185,
+     1
+    ],
+    [
+     22261,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 546,
+   "product": 17507,
+   "ingredients": [
+    [
+     17185,
+     1
+    ],
+    [
+     22261,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 525,
+   "rate": 50
+  }
+ ]
+}

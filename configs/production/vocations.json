@@ -1,0 +1,475 @@
+{
+ "troubadour": {
+  "sorts_en_plus": [
+   [
+    58,
+    782,
+    "Gigatornade"
+   ]
+  ],
+  "arbre": [
+   {
+    "action": 167,
+    "libelle": "Solo d'enfer"
+   },
+   {
+    "action": 0,
+    "type": 10,
+    "valeur": 20,
+    "libelle": "Charme naturel + 20"
+   },
+   {
+    "action": 192,
+    "libelle": "Relooking"
+   },
+   {
+    "action": 0,
+    "type": 9,
+    "valeur": 20,
+    "libelle": "Adresse naturelle + 20"
+   },
+   {
+    "action": 171,
+    "libelle": "Coup de fouet"
+   },
+   {
+    "action": 0,
+    "type": 15,
+    "valeur": 30,
+    "libelle": "Soins magiques naturels + 30"
+   },
+   {
+    "action": 804,
+    "libelle": "Roi de la jongle"
+   },
+   {
+    "action": 0,
+    "type": 16,
+    "valeur": 40,
+    "libelle": "Puiss. magique naturelle + 40"
+   },
+   {
+    "action": 195,
+    "libelle": "Soirée disco"
+   },
+   {
+    "action": 0,
+    "type": 10,
+    "valeur": 80,
+    "libelle": "Charme naturel + 80"
+   }
+  ]
+ },
+ "heros": {
+  "nom": "Héros",
+  "nom_arbre": "Héroïsme",
+  "xp_facteur": 0.97,
+  "sorts": [
+   [
+    1,
+    30,
+    "Premiers secours"
+   ],
+   [
+    1,
+    9,
+    "Flamme"
+   ],
+   [
+    4,
+    205,
+    "Évac'"
+   ],
+   [
+    13,
+    31,
+    "Soins partiels"
+   ],
+   [
+    17,
+    38,
+    "Rappel"
+   ],
+   [
+    21,
+    53,
+    "Torpeur"
+   ],
+   [
+    24,
+    22,
+    "Superbang"
+   ],
+   [
+    40,
+    34,
+    "Multisoin"
+   ],
+   [
+    45,
+    11,
+    "Mégaflamme"
+   ],
+   [
+    50,
+    33,
+    "Soins complets"
+   ],
+   [
+    58,
+    783,
+    "Gigabang"
+   ]
+  ],
+  "arbre": [
+   {
+    "action": 0,
+    "type": 11,
+    "valeur": 10,
+    "libelle": "PV max. naturels + 10"
+   },
+   {
+    "action": 13,
+    "libelle": "Élec"
+   },
+   {
+    "action": 0,
+    "type": 6,
+    "valeur": 10,
+    "libelle": "Force naturelle + 10"
+   },
+   {
+    "action": 72,
+    "libelle": "Tonnerre divin"
+   },
+   {
+    "action": 0,
+    "type": 16,
+    "valeur": 30,
+    "libelle": "Puiss. magique naturelle + 30"
+   },
+   {
+    "action": 196,
+    "libelle": "Chant du combattant"
+   },
+   {
+    "action": 0,
+    "type": 11,
+    "valeur": 30,
+    "libelle": "PV max. naturels + 30"
+   },
+   {
+    "action": 74,
+    "libelle": "Orage d'éclairs"
+   },
+   {
+    "action": 0,
+    "type": 12,
+    "valeur": 50,
+    "libelle": "PM max. naturels + 50"
+   },
+   {
+    "action": 187,
+    "libelle": "Éruption solaire"
+   }
+  ]
+ },
+ "menus_nom": [
+  [
+   "data/bin/menu/str_sta.gp2",
+   "str_sta_fr.bin"
+  ],
+  [
+   "data/bin/menu/str_tm.gp2",
+   "str_tm_fr.nat"
+  ],
+  [
+   "data/bin/menu/bm_dama.gp2",
+   "bm_dama_fr.bin"
+  ],
+  [
+   "data/bin/menu/bm_lui.gp2",
+   "bm_lui_fr.bin"
+  ],
+  [
+   "data/bin/menu/bm_tuyo.gp2",
+   "bm_tuyo_fr.bin"
+  ],
+  [
+   "data/bin/menu/str_op.gp2",
+   "str_op_fr.bin"
+  ],
+  [
+   "data/bin/menu/str_sli.gp2",
+   "str_sli_fr.nat"
+  ],
+  [
+   "data/bin/profstr.gp2",
+   "profstr_fr.bin"
+  ],
+  [
+   "data/bin/tlkpcstr.gp2",
+   "tlkpcstr_fr.bin"
+  ]
+ ],
+ "textes": [
+  {
+   "fichier": "data/bin/menu/str_dam.gp2",
+   "membre": "str_dam_fr.nat",
+   "ancien": "sommité",
+   "nouveau": "héros"
+  },
+  {
+   "fichier": "data/bin/ttlname.gp2",
+   "membre": "ttlname_fr.bin",
+   "ancien": "Sommité sans limite",
+   "nouveau": "Héros sans limite"
+  },
+  {
+   "fichier": "data/bin/ttlname.gp2",
+   "membre": "ttlname_fr.bin",
+   "ancien": "Sommité type",
+   "nouveau": "Héros type"
+  },
+  {
+   "fichier": "data/bin/ttlname0.gp2",
+   "membre": "ttlname0_fr.nat",
+   "ancien": "Sommité sans limite",
+   "nouveau": "Héros sans limite"
+  },
+  {
+   "fichier": "data/bin/ttlname0.gp2",
+   "membre": "ttlname0_fr.nat",
+   "ancien": "Sommité type",
+   "nouveau": "Héros type"
+  },
+  {
+   "fichier": "data/bin/ttlname1.gp2",
+   "membre": "ttlname1_fr.nat",
+   "ancien": "Sommité sans limite",
+   "nouveau": "Héros sans limite"
+  },
+  {
+   "fichier": "data/bin/ttlname1.gp2",
+   "membre": "ttlname1_fr.nat",
+   "ancien": "Sommité type",
+   "nouveau": "Héros type"
+  },
+  {
+   "fichier": "data/bin/ttldata.gp2",
+   "membre": "ttldata_fr.bin",
+   "ancien": "Attribuée à <ADDRESSEE> pour avoir développé un Quelque chose en plus de niveau 1.",
+   "nouveau": "Attribuée à <ADDRESSEE> pour avoir développé son Héroïsme jusqu'au niveau 1."
+  },
+  {
+   "fichier": "data/bin/ttldata.gp2",
+   "membre": "ttldata_fr.bin",
+   "ancien": "Attribuée à <ADDRESSEE> pour avoir développé un Quelque chose en plus de niveau 2.",
+   "nouveau": "Attribuée à <ADDRESSEE> pour avoir développé son Héroïsme jusqu'au niveau 2."
+  },
+  {
+   "fichier": "data/bin/ttldata.gp2",
+   "membre": "ttldata_fr.bin",
+   "ancien": "Attribuée à <ADDRESSEE> pour avoir développé un Quelque chose en plus de niveau 3.",
+   "nouveau": "Attribuée à <ADDRESSEE> pour avoir développé son Héroïsme jusqu'au niveau 3."
+  },
+  {
+   "fichier": "data/bin/ttldata.gp2",
+   "membre": "ttldata_fr.bin",
+   "ancien": "Attribuée à <ADDRESSEE> pour avoir développé un Quelque chose en plus de niveau 4.",
+   "nouveau": "Attribuée à <ADDRESSEE> pour avoir développé son Héroïsme jusqu'au niveau 4."
+  },
+  {
+   "fichier": "data/bin/ttldata.gp2",
+   "membre": "ttldata_fr.bin",
+   "ancien": "Attribuée à <ADDRESSEE> pour avoir développé un Quelque chose en plus de niveau 5.",
+   "nouveau": "Attribuée à <ADDRESSEE> pour avoir développé son Héroïsme jusqu'au niveau 5."
+  },
+  {
+   "fichier": "data/bin/ttldata.gp2",
+   "membre": "ttldata_fr.bin",
+   "ancien": "Attribuée à <ADDRESSEE> pour avoir développé un Quelque chose en plus de niveau 6.",
+   "nouveau": "Attribuée à <ADDRESSEE> pour avoir développé son Héroïsme jusqu'au niveau 6."
+  },
+  {
+   "fichier": "data/bin/ttldata.gp2",
+   "membre": "ttldata_fr.bin",
+   "ancien": "Attribuée à <ADDRESSEE> pour avoir développé un Quelque chose en plus de niveau 7.",
+   "nouveau": "Attribuée à <ADDRESSEE> pour avoir développé son Héroïsme jusqu'au niveau 7."
+  },
+  {
+   "fichier": "data/bin/ttldata.gp2",
+   "membre": "ttldata_fr.bin",
+   "ancien": "Attribuée à <ADDRESSEE> pour avoir développé un Quelque chose en plus de niveau 8.",
+   "nouveau": "Attribuée à <ADDRESSEE> pour avoir développé son Héroïsme jusqu'au niveau 8."
+  },
+  {
+   "fichier": "data/bin/ttldata.gp2",
+   "membre": "ttldata_fr.bin",
+   "ancien": "Attribuée à <ADDRESSEE> pour avoir développé un Quelque chose en plus de niveau 9.",
+   "nouveau": "Attribuée à <ADDRESSEE> pour avoir développé son Héroïsme jusqu'au niveau 9."
+  },
+  {
+   "fichier": "data/bin/ttldata.gp2",
+   "membre": "ttldata_fr.bin",
+   "ancien": "Attribuée à <ADDRESSEE> pour avoir développé un Quelque chose en plus si mystérieusement séduisant qu'il ne peut être surpassé.",
+   "nouveau": "Attribuée à <ADDRESSEE> pour avoir développé un Héroïsme si éclatant qu'il ne peut être surpassé."
+  },
+  {
+   "fichier": "data/bin/ttldata.gp2",
+   "membre": "ttldata_fr.bin",
+   "ancien": "Attribuée à <ADDRESSEE> pour avoir brillamment atteint le niveau le plus élevé pour une sommité.",
+   "nouveau": "Attribuée à <ADDRESSEE> pour avoir brillamment atteint le niveau le plus élevé pour un héros."
+  },
+  {
+   "fichier": "data/bin/ttldata.gp2",
+   "membre": "ttldata_fr.bin",
+   "ancien": "Décernée à <ADDRESSEE> maintenant qu'<IF_ADDRESSEE_MALE>il<ELSE_ADDRESSEE_NOT_MALE>elle<ENDIF_ADDRESSEE_MALE> brille parmi les étoiles, après avoir choisi la renouvocation de sommité un maximum de fois.",
+   "nouveau": "Décernée à <ADDRESSEE> maintenant qu'<IF_ADDRESSEE_MALE>il<ELSE_ADDRESSEE_NOT_MALE>elle<ENDIF_ADDRESSEE_MALE> brille parmi les étoiles, après avoir choisi la renouvocation de héros un maximum de fois."
+  },
+  {
+   "fichier": "data/bin/ttldata.gp2",
+   "membre": "ttldata_fr.bin",
+   "ancien": "Attribuée à <ADDRESSEE> pour avoir reconstitué la tenue d'une sommité à l'air étrangement familier...",
+   "nouveau": "Attribuée à <ADDRESSEE> pour avoir reconstitué la tenue d'un héros à l'air étrangement familier..."
+  },
+  {
+   "fichier": "data/prm/itemname.gp2",
+   "membre": "itemname_fr.nat",
+   "ancien": "Livre de la Sommité",
+   "nouveau": "Livre du Héros"
+  },
+  {
+   "fichier": "data/prm/itemname.gp2",
+   "membre": "itemname_fr.nat",
+   "ancien": "exemplaires du Livre de la Sommité",
+   "nouveau": "exemplaires du Livre du Héros"
+  },
+  {
+   "fichier": "data/prm/itemdt.gp2",
+   "membre": "itemdt_fr.nat",
+   "ancien": "Livre de la Sommité",
+   "nouveau": "Livre du Héros"
+  },
+  {
+   "fichier": "data/prm/itemdt_t.gp2",
+   "membre": "itemdt_t_fr.nat",
+   "ancien": "Livre de la Sommité",
+   "nouveau": "Livre du Héros"
+  },
+  {
+   "fichier": "data/prm/itemexpl.gp2",
+   "membre": "itemexpl_fr.nat",
+   "ancien": "Chapeau hors norme que toute sommité se doit de porter.",
+   "nouveau": "Chapeau hors norme que tout héros se doit de porter."
+  },
+  {
+   "fichier": "data/prm/itemexpl.gp2",
+   "membre": "itemexpl_fr.nat",
+   "ancien": "Joli accessoire qui complète à merveille la mise d'une sommité.",
+   "nouveau": "Joli accessoire qui complète à merveille la mise d'un héros."
+  },
+  {
+   "fichier": "data/prm/itemexpl.gp2",
+   "membre": "itemexpl_fr.nat",
+   "ancien": "Tenue étincelante pour une illustre sommité.",
+   "nouveau": "Tenue étincelante pour un illustre héros."
+  },
+  {
+   "fichier": "data/prm/itemexpl.gp2",
+   "membre": "itemexpl_fr.nat",
+   "ancien": "Bottes rouge vif s'accordant à la mise d'une sommité.",
+   "nouveau": "Bottes rouge vif s'accordant à la mise d'un héros."
+  },
+  {
+   "fichier": "data/prm/itemexpl.gp2",
+   "membre": "itemexpl_fr.nat",
+   "ancien": "Bottes souples qui enjolivent beaucoup les sommités.",
+   "nouveau": "Bottes souples qui enjolivent beaucoup les héros."
+  },
+  {
+   "fichier": "data/prm/itemexpl.gp2",
+   "membre": "itemexpl_fr.nat",
+   "ancien": "Récompense pour sommités qui a son charme.",
+   "nouveau": "Récompense pour héros qui a son charme."
+  },
+  {
+   "fichier": "data/prm/iteminfo_fr.gp2",
+   "membre": "itemexpl_fr.nat",
+   "ancien": "Chapeau hors norme que toute sommité se doit de porter.",
+   "nouveau": "Chapeau hors norme que tout héros se doit de porter."
+  },
+  {
+   "fichier": "data/prm/iteminfo_fr.gp2",
+   "membre": "itemexpl_fr.nat",
+   "ancien": "Joli accessoire qui complète à merveille la mise d'une sommité.",
+   "nouveau": "Joli accessoire qui complète à merveille la mise d'un héros."
+  },
+  {
+   "fichier": "data/prm/iteminfo_fr.gp2",
+   "membre": "itemexpl_fr.nat",
+   "ancien": "Tenue étincelante pour une illustre sommité.",
+   "nouveau": "Tenue étincelante pour un illustre héros."
+  },
+  {
+   "fichier": "data/prm/iteminfo_fr.gp2",
+   "membre": "itemexpl_fr.nat",
+   "ancien": "Bottes rouge vif s'accordant à la mise d'une sommité.",
+   "nouveau": "Bottes rouge vif s'accordant à la mise d'un héros."
+  },
+  {
+   "fichier": "data/prm/iteminfo_fr.gp2",
+   "membre": "itemexpl_fr.nat",
+   "ancien": "Bottes souples qui enjolivent beaucoup les sommités.",
+   "nouveau": "Bottes souples qui enjolivent beaucoup les héros."
+  },
+  {
+   "fichier": "data/prm/iteminfo_fr.gp2",
+   "membre": "itemexpl_fr.nat",
+   "ancien": "Récompense pour sommités qui a son charme.",
+   "nouveau": "Récompense pour héros qui a son charme."
+  },
+  {
+   "fichier": "data/bin/menu/str_daj.gp2",
+   "membre": "str_daj_fr.nat",
+   "ancien": "Chanteurs et danseurs qui ajoutent strass et",
+   "nouveau": "Héros intrépides guidés par la lumière,"
+  },
+  {
+   "fichier": "data/bin/menu/str_daj.gp2",
+   "membre": "str_daj_fr.nat",
+   "ancien": "paillettes à l'art du combat et manient avec",
+   "nouveau": "ils veillent sur leurs alliés et manient"
+  },
+  {
+   "fichier": "data/bin/menu/str_daj.gp2",
+   "membre": "str_daj_fr.nat",
+   "ancien": "grâce l'éventail, le fouet ou le boomerang.",
+   "nouveau": "l'épée, l'éventail et l'arc avec bravoure."
+  },
+  {
+   "fichier": "data/bin/menu/bm_tuyo.gp2",
+   "membre": "bm_tuyo_fr.bin",
+   "ancien": "Quelque chose en +",
+   "nouveau": "Héroïsme"
+  },
+  {
+   "fichier": "data/bin/menu/str_sta.gp2",
+   "membre": "str_sta_fr.bin",
+   "ancien": "Qque chose en +",
+   "nouveau": "Héroïsme"
+  },
+  {
+   "fichier": "data/bin/menu/str_sli.gp2",
+   "membre": "str_sli_fr.nat",
+   "ancien": "Qque chose en +",
+   "nouveau": "Héroïsme"
+  },
+  {
+   "fichier": "data/bin/menu/str_su.gp2",
+   "membre": "str_su_fr.nat",
+   "ancien": "Qq chose en +",
+   "nouveau": "Héroïsme"
+  }
+ ]
+}

@@ -1,0 +1,627 @@
+{
+ "include": [
+  "lot2.json"
+ ],
+ "items": [
+  {
+   "id": 19072,
+   "base": 19071,
+   "name": "dague extraordinaire",
+   "plural": "dagues extraordinaires",
+   "desc": "Dague d'un blanc pur qui peut paralyser l'ennemi.",
+   "rarity": 6,
+   "stats": {
+    "attack": 172
+   },
+   "model": {
+    "number": 927,
+    "regles": [
+     "rouge",
+     "blanc",
+     "rose",
+     "blanc"
+    ]
+   },
+   "test_shop_buy": 5000,
+   "btlprm_ou": [
+    [
+     4,
+     "0x02"
+    ]
+   ],
+   "btlprm_de": [
+    [
+     19054,
+     12
+    ]
+   ]
+  },
+  {
+   "id": 20420,
+   "base": 20418,
+   "name": "bâton de sagesse",
+   "plural": "bâtons de sagesse",
+   "desc": "@base",
+   "rarity": 6,
+   "stats": {
+    "attack": 109,
+    "mp_absorb": 150,
+    "magic_heal": 30
+   },
+   "model": {
+    "number": 928,
+    "regles": [
+     "h:230-300",
+     "teinte:335",
+     "rose",
+     "teinte:335"
+    ]
+   },
+   "test_shop_buy": 5000
+  },
+  {
+   "id": 20322,
+   "base": 20321,
+   "name": "gringhamiste",
+   "plural": "gringhamistes",
+   "desc": "@base",
+   "rarity": 6,
+   "stats": {
+    "attack": 158
+   },
+   "model": {
+    "number": 929,
+    "regles": [
+     "rouge",
+     "teinte_sv:355:1.2:0.7",
+     "rose",
+     "teinte_sv:355:1.2:0.7"
+    ]
+   },
+   "test_shop_buy": 5000
+  },
+  {
+   "id": 20824,
+   "base": 20822,
+   "name": "griffes drago-impériales",
+   "plural": "paires de griffes drago-impériales",
+   "desc": "@base",
+   "rarity": 6,
+   "stats": {
+    "attack": 187
+   },
+   "model": {
+    "number": 930,
+    "regles": [
+     "bleu",
+     "teinte:280",
+     "gris",
+     "teinte_sv:0:1.4:0.85"
+    ]
+   },
+   "test_shop_buy": 5000
+  },
+  {
+   "id": 20125,
+   "base": 20123,
+   "name": "éventail divin",
+   "plural": "éventails divins",
+   "desc": "@base",
+   "rarity": 6,
+   "stats": {
+    "attack": 173
+   },
+   "model": {
+    "number": 931,
+    "regles": [
+     "vert",
+     "noir",
+     "rose",
+     "teinte:45",
+     "rouge",
+     "teinte:45",
+     "orange",
+     "teinte:45"
+    ]
+   },
+   "test_shop_buy": 5000
+  },
+  {
+   "id": 19169,
+   "base": 19168,
+   "name": "pilon galactique",
+   "plural": "pilons galactiques",
+   "desc": "@base",
+   "rarity": 6,
+   "stats": {
+    "attack": 186
+   },
+   "model": {
+    "number": 932,
+    "regles": [
+     "bleu",
+     "teinte_sv:0:1.6:1.25",
+     "orange",
+     "teinte_sv:45:1.1:1.1"
+    ]
+   },
+   "test_shop_buy": 5000
+  },
+  {
+   "id": 20526,
+   "base": 20523,
+   "name": "fantastuisane",
+   "plural": "fantastuisanes",
+   "desc": "Lance d'un rouge ardent pouvant traverser n'importe quel bouclier.",
+   "rarity": 6,
+   "stats": {
+    "attack": 188
+   },
+   "model": {
+    "number": 922,
+    "regles": [
+     "violet",
+     "teinte:0",
+     "h:25-70",
+     "teinte_sv:355:1.3:0.55"
+    ]
+   }
+  },
+  {
+   "id": 20622,
+   "base": 20621,
+   "name": "matraclysme",
+   "plural": "matraclysmes",
+   "desc": "Bâton pourpre rehaussé d'or, plus redoutable encore que le matracoma.",
+   "rarity": 6,
+   "stats": {
+    "attack": 188
+   },
+   "model": {
+    "number": 923,
+    "regles": [
+     "rouge",
+     "teinte_sv:322:1.0:1.0",
+     "orange",
+     "teinte_sv:322:1.0:1.0",
+     "or",
+     "teinte_sv:45:1.2:1.15"
+    ]
+   }
+  },
+  {
+   "id": 20720,
+   "base": 20719,
+   "name": "nébulirang",
+   "plural": "nébulirangs",
+   "desc": "Boomerang pourpre qui peut aussi réduire la défense des ennemis touchés.",
+   "rarity": 6,
+   "stats": {
+    "attack": 146
+   },
+   "model": {
+    "number": 924,
+    "regles": [
+     "h:0-40",
+     "teinte_sv:335:1.1:0.7",
+     "h:340-360",
+     "teinte_sv:320:1.1:0.7",
+     "h:250-300",
+     "teinte_sv:275:1.1:0.65"
+    ]
+   },
+   "btlprm_ou": [
+    [
+     4,
+     "0x08"
+    ]
+   ]
+  },
+  {
+   "id": 20919,
+   "base": 20918,
+   "name": "arc du firmament",
+   "plural": "arcs du firmament",
+   "desc": "Arc céleste d'un rouge pourpre, qui peut parfois empoisonner l'ennemi.",
+   "rarity": 6,
+   "stats": {
+    "attack": 189
+   },
+   "model": {
+    "number": 925,
+    "regles": [
+     "h:200-270",
+     "teinte_sv:0:1.2:0.85"
+    ]
+   },
+   "btlprm_ou": [
+    [
+     4,
+     "0x01"
+    ]
+   ]
+  }
+ ],
+ "recipes": [
+  {
+   "id": 483,
+   "product": 19071,
+   "ingredients": [
+    [
+     19071,
+     1
+    ],
+    [
+     22263,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 528,
+   "product": 19072,
+   "ingredients": [
+    [
+     19071,
+     1
+    ],
+    [
+     22263,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 483,
+   "rate": 50
+  },
+  {
+   "id": 484,
+   "product": 20418,
+   "ingredients": [
+    [
+     20418,
+     1
+    ],
+    [
+     22260,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 529,
+   "product": 20420,
+   "ingredients": [
+    [
+     20418,
+     1
+    ],
+    [
+     22260,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 484,
+   "rate": 50
+  },
+  {
+   "id": 485,
+   "product": 20321,
+   "ingredients": [
+    [
+     20321,
+     1
+    ],
+    [
+     22262,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 530,
+   "product": 20322,
+   "ingredients": [
+    [
+     20321,
+     1
+    ],
+    [
+     22262,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 485,
+   "rate": 50
+  },
+  {
+   "id": 487,
+   "product": 20822,
+   "ingredients": [
+    [
+     20822,
+     1
+    ],
+    [
+     22259,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 531,
+   "product": 20824,
+   "ingredients": [
+    [
+     20822,
+     1
+    ],
+    [
+     22259,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 487,
+   "rate": 50
+  },
+  {
+   "id": 488,
+   "product": 20123,
+   "ingredients": [
+    [
+     20123,
+     1
+    ],
+    [
+     22262,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 532,
+   "product": 20125,
+   "ingredients": [
+    [
+     20123,
+     1
+    ],
+    [
+     22262,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 488,
+   "rate": 50
+  },
+  {
+   "id": 489,
+   "product": 19168,
+   "ingredients": [
+    [
+     19168,
+     1
+    ],
+    [
+     22261,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 533,
+   "product": 19169,
+   "ingredients": [
+    [
+     19168,
+     1
+    ],
+    [
+     22261,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 489,
+   "rate": 50
+  },
+  {
+   "id": 482,
+   "product": 20523,
+   "ingredients": [
+    [
+     20523,
+     1
+    ],
+    [
+     22259,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 534,
+   "product": 20526,
+   "ingredients": [
+    [
+     20523,
+     1
+    ],
+    [
+     22259,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 482,
+   "rate": 50
+  },
+  {
+   "id": 476,
+   "product": 20621,
+   "ingredients": [
+    [
+     20621,
+     1
+    ],
+    [
+     22260,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 535,
+   "product": 20622,
+   "ingredients": [
+    [
+     20621,
+     1
+    ],
+    [
+     22260,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 476,
+   "rate": 50
+  },
+  {
+   "id": 477,
+   "product": 20719,
+   "ingredients": [
+    [
+     20719,
+     1
+    ],
+    [
+     22264,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 536,
+   "product": 20720,
+   "ingredients": [
+    [
+     20719,
+     1
+    ],
+    [
+     22264,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 477,
+   "rate": 50
+  },
+  {
+   "id": 479,
+   "product": 20918,
+   "ingredients": [
+    [
+     20918,
+     1
+    ],
+    [
+     22261,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ]
+  },
+  {
+   "id": 537,
+   "product": 20919,
+   "ingredients": [
+    [
+     20918,
+     1
+    ],
+    [
+     22261,
+     3
+    ],
+    [
+     22302,
+     3
+    ]
+   ],
+   "variant_of": 479,
+   "rate": 50
+  }
+ ]
+}
