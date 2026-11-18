@@ -56,4 +56,15 @@ Limite : le projet de base n'est pas dans ce dépôt. Il contient le code du jeu
 3. **Données binaires** : les scripts réécrivent les archives et fichiers de données de la ROM (format `.gp2`, `.nat`, `.bin`) puis la ROM elle-même.
 4. **Patch xdelta** : la ROM obtenue est comparée à la ROM US d'origine pour produire le fichier `.xdelta` de `patches/`.
 
-Les trois scripts s'appuient sur des modules utilitaires (lecture des archives `.gp2`, couleurs, en-tête de ROM, tables à étiquettes) qui ne sont pas inclus dans ce dépôt.
+Les trois scripts s'appuient sur des modules utilitaires (lecture des archives `.gp2`, couleurs, en-tête de ROM, tables à étiquettes, modèles 3D, textures et formats compressés) qui sont tous inclus dans `scripts/`.
+
+## Lancer les scripts
+
+1. Extraire la ROM US vanilla avec `dsd` dans `work/rom_usa/files/`.
+2. Régénérer `enemy_recomp.gp2` avec `recomp_enemy.py`.
+3. Lancer les scripts avec les JSON de `configs/production/` :
+   - `python -I scripts/objets_build.py <base.nds> configs/production/lot8.json <out.nds>`
+   - `python -I scripts/boss_legacy_build.py <in.nds> <enemy_recomp.gp2> configs/production/boss_legacy.json <out.nds>`
+   - `python -I scripts/vocations_build.py <in.nds> configs/production/vocations.json <out.nds>`
+
+Limite : la ROM de base (`dq9_v7_5a_base.nds`, issue du projet v6.3c) contient du code extrait du jeu et n'est pas partagée. On peut donc lancer la chaîne sur ses propres fichiers, mais on ne retombe pas sur le SHA-1 exact du patch. Le patch xdelta reste la référence pour le résultat final.
